@@ -71,4 +71,19 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Soy3.unity
     guid: a3d4e9e36168754449ec64ea6f7bccfe
+  - enabled: 1
+    path: Assets/Scenes/kanjigame_bird.unity
+    guid: 3265b616241d5874cb0a8053953d86eb
+  - enabled: 1
+    path: Assets/Scenes/kanjigame_egg.unity
+    guid: c248812284848384ca952dd2c4790dfb
+  - enabled: 1
+    path: Assets/Scenes/kanjigame_field.unity
+    guid: b366749e70b69ac4d9457f03dca93dea
+  - enabled: 1
+    path: Assets/Scenes/kanjigame_powder.unity
+    guid: 147439ab9ed828946a361fa00d205581
+  - enabled: 1
+    path: Assets/Scenes/kanjigame_wheat.unity
+    guid: c782c9d7669e11c46a8e9cb85686b48a
   m_configObjects: {}
