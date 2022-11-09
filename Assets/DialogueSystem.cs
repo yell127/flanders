@@ -45,4 +45,6 @@ public class DialogueSystem : MonoBehaviour
         anim.SetBool("isOpen", false);
         txtSentence.text= string.Empty;
     }
+
+    
 }

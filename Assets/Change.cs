@@ -5,6 +5,21 @@ using UnityEngine.SceneManagement;
 
 public class Change  : MonoBehaviour
 {
+    public void SceneChangeCaseEgg()
+    {
+        SceneManager.LoadScene("Case;Egg");
+    }
+
+    public void SceneChangeCaseFlour()
+    {
+        SceneManager.LoadScene("Case;Flour");
+    }
+
+    public void SceneChangeCaseSoy()
+    {
+        SceneManager.LoadScene("Case;Soy");
+    }
+    
     public void SceneChange()
     {
         SceneManager.LoadScene("S#1-2");
@@ -60,4 +75,6 @@ public class Change  : MonoBehaviour
     {
         SceneManager.LoadScene("S#4-5");
     }
+
+    
 }
