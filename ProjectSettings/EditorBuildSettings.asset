@@ -6,84 +6,147 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/S#1-1.unity
+    path: Assets/Scenes/SCENE NUMBERING/S#1-1.unity
     guid: 43a9524a2f8fdf94b8eb711f1936f727
   - enabled: 1
-    path: Assets/Scenes/S#1-2.unity
+    path: Assets/Scenes/SCENE NUMBERING/S#1-2.unity
     guid: 27d00c6a881cff14b98e6a82ae139ded
   - enabled: 1
-    path: Assets/Scenes/S#1-3.unity
+    path: Assets/Scenes/SCENE NUMBERING/S#1-3.unity
     guid: f6d64a2eec92fff4b818f49600c2541e
   - enabled: 1
-    path: Assets/Scenes/S#2-1.unity
+    path: Assets/Scenes/SCENE NUMBERING/S#2-1.unity
     guid: aa085276182d4004b8ea4922a3740e76
   - enabled: 1
-    path: Assets/Scenes/S#2-2.unity
+    path: Assets/Scenes/SCENE NUMBERING/S#2-2.unity
     guid: daeb60e7f55515049b61739389c61acf
   - enabled: 1
-    path: Assets/Scenes/S#3-1.unity
+    path: Assets/Scenes/SCENE NUMBERING/S#3-1.unity
     guid: 188a77a2fe242204f9476741b33a22f6
   - enabled: 1
-    path: Assets/Scenes/S#3-2.unity
+    path: Assets/Scenes/SCENE NUMBERING/S#3-2.unity
     guid: f9cc2d4da2cbcfe4d8129c6316900769
   - enabled: 1
-    path: Assets/Scenes/S#4-1.unity
+    path: Assets/Scenes/SCENE NUMBERING/S#4-1.unity
     guid: 3828ed011b46bf34ca9566809e1cac69
   - enabled: 1
-    path: Assets/Scenes/S#4-2.unity
+    path: Assets/Scenes/SCENE NUMBERING/S#4-2.unity
     guid: c61d13cf16d81d741aba13137f2e52a3
   - enabled: 1
-    path: Assets/Scenes/S#4-3.unity
+    path: Assets/Scenes/SCENE NUMBERING/S#4-3.unity
     guid: 71c9173a997b4a8409ce8ca1b4bf092d
   - enabled: 1
-    path: Assets/Scenes/S#4-4.unity
+    path: Assets/Scenes/SCENE NUMBERING/S#4-4.unity
     guid: eee3c487119367e46ac630ad212d5303
   - enabled: 1
-    path: Assets/Scenes/S#4-5.unity
+    path: Assets/Scenes/SCENE NUMBERING/S#4-5.unity
     guid: 35295f0c2f5ebd54fbd89c75f7f9c883
   - enabled: 1
-    path: Assets/Scenes/Case;Egg.unity
+    path: Assets/Scenes/CASE/Case;Egg.unity
     guid: 23257c8dbbe54de41979302edebe3f3c
   - enabled: 1
-    path: Assets/Scenes/Egg.unity
+    path: Assets/Scenes/SELECTION/Egg.unity
     guid: 7e6870a4130cf6542b566666f76d70d3
   - enabled: 1
-    path: Assets/Scenes/Egg2.unity
+    path: Assets/Scenes/SELECTION/Egg2.unity
     guid: 237a906eae1e0db4aac9cf31c0a899f8
   - enabled: 1
-    path: Assets/Scenes/Egg3.unity
+    path: Assets/Scenes/SELECTION/Egg3.unity
     guid: e68f41b507c171549a24c68257e95983
   - enabled: 1
-    path: Assets/Scenes/Flour.unity
+    path: Assets/Scenes/SELECTION/Flour.unity
     guid: 81454647c221ea645a0aa5344617e680
   - enabled: 1
-    path: Assets/Scenes/Flour2.unity
+    path: Assets/Scenes/SELECTION/Flour2.unity
     guid: 5ac31dc3f90b8624ba44ff9c36c6f678
   - enabled: 1
-    path: Assets/Scenes/Flour3.unity
+    path: Assets/Scenes/SELECTION/Flour3.unity
     guid: 7d0d88acf3a94594ba283f386e9860da
   - enabled: 1
-    path: Assets/Scenes/Soy.unity
+    path: Assets/Scenes/SELECTION/Soy.unity
     guid: 55df06ce63449244aadea5473a387b46
   - enabled: 1
-    path: Assets/Scenes/Soy2.unity
+    path: Assets/Scenes/SELECTION/Soy2.unity
     guid: b09b568ccc3459044beb7774433085e6
   - enabled: 1
-    path: Assets/Scenes/Soy3.unity
+    path: Assets/Scenes/SELECTION/Soy3.unity
     guid: a3d4e9e36168754449ec64ea6f7bccfe
   - enabled: 1
-    path: Assets/Scenes/kanjigame_bird.unity
+    path: Assets/Scenes/KANJIGAME/kanjigame_bird.unity
     guid: 3265b616241d5874cb0a8053953d86eb
   - enabled: 1
-    path: Assets/Scenes/kanjigame_egg.unity
+    path: Assets/Scenes/KANJIGAME/kanjigame_egg.unity
     guid: c248812284848384ca952dd2c4790dfb
   - enabled: 1
-    path: Assets/Scenes/kanjigame_field.unity
+    path: Assets/Scenes/KANJIGAME/kanjigame_field.unity
     guid: b366749e70b69ac4d9457f03dca93dea
   - enabled: 1
-    path: Assets/Scenes/kanjigame_powder.unity
+    path: Assets/Scenes/KANJIGAME/kanjigame_powder.unity
     guid: 147439ab9ed828946a361fa00d205581
   - enabled: 1
-    path: Assets/Scenes/kanjigame_wheat.unity
+    path: Assets/Scenes/KANJIGAME/kanjigame_wheat.unity
     guid: c782c9d7669e11c46a8e9cb85686b48a
+  - enabled: 1
+    path: Assets/Scenes/FAILURE&SUCCESS/Aburaage_fail.unity
+    guid: 10b6371f25bdd0f48a10d85a27abe15e
+  - enabled: 1
+    path: Assets/Scenes/CASE/Case;Flour.unity
+    guid: bbafbf927464f7847a9f1c8afdc0a2f2
+  - enabled: 1
+    path: Assets/Scenes/FAILURE&SUCCESS/Aburaage_success.unity
+    guid: a7950d690d71a774eaa8093a69b2319d
+  - enabled: 1
+    path: Assets/Scenes/FAILURE&SUCCESS/Case;Egg;Fail.unity
+    guid: 29868a66e64e3de438e93075b57ee522
+  - enabled: 1
+    path: Assets/Scenes/FAILURE&SUCCESS/Case;Egg;Success.unity
+    guid: f132aade18c6bb94e81f9f096f28e0d5
+  - enabled: 1
+    path: Assets/Scenes/FAILURE&SUCCESS/Case;Flour;Fail.unity
+    guid: a0350aca231f93c428c11d0302a6400f
+  - enabled: 1
+    path: Assets/Scenes/FAILURE&SUCCESS/Case;Flour;Success.unity
+    guid: de1e7ab324480cb48941beac880931d3
+  - enabled: 1
+    path: Assets/Scenes/FAILURE&SUCCESS/Case;Soy;Fail.unity
+    guid: e174156405d76ce4d939562fdc29b113
+  - enabled: 1
+    path: Assets/Scenes/FAILURE&SUCCESS/Case;Soy;Success.unity
+    guid: ab1b62db13c144a49b70f1b851622e2b
+  - enabled: 1
+    path: Assets/Scenes/FAILURE&SUCCESS/Springionion_fail.unity
+    guid: 2a781df93ed793144bc9bcebfb505f3d
+  - enabled: 1
+    path: Assets/Scenes/FAILURE&SUCCESS/Springonion_success.unity
+    guid: 8e538cba8b99a50478bdaf4440acbcac
+  - enabled: 1
+    path: Assets/Scenes/AFTER/AfterSpringonion.unity
+    guid: ef7f8d9738a023a4f897428ac692cfd6
+  - enabled: 1
+    path: Assets/Scenes/AFTER/AfterSoy.unity
+    guid: db7154b9c90ab91409da5effaa684954
+  - enabled: 1
+    path: Assets/Scenes/AFTER/AfterFlour.unity
+    guid: 825d12b4735db1e43abc0a2fbd3ae586
+  - enabled: 1
+    path: Assets/Scenes/AFTER/AfterEgg.unity
+    guid: ebb2587feb6f68d419ff003209fe85d3
+  - enabled: 1
+    path: Assets/Scenes/CASE/Case;Aburaage.unity
+    guid: 9b1fff086cbc8f645aaee83ee35b642c
+  - enabled: 1
+    path: Assets/Scenes/CASE/Case;Soy.unity
+    guid: 2ae026a7aab3904408e69ff22425b2a4
+  - enabled: 1
+    path: Assets/Scenes/CASE/Case;Springonion.unity
+    guid: e4db88f0c56dd654a8cd9305c7a04d18
+  - enabled: 1
+    path: Assets/Scenes/Aburaage1.unity
+    guid: 8ae44108af8dd5144a0fbf112866d677
+  - enabled: 1
+    path: Assets/Scenes/Aburaage2.unity
+    guid: 09ccfed1d8def8f4fa990821e42830d5
+  - enabled: 1
+    path: Assets/Scenes/Spingonion.unity
+    guid: bfc6e7fa68dc07d4e815feed9bf288ad
   m_configObjects: {}
