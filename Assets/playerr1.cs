@@ -13,18 +13,19 @@ public class playerr : MonoBehaviour
     Rigidbody2D rigid;
     SpriteRenderer spriter;
     Vector3 dirVec; //어느 방향을 보고 있는지 보여주기 위한 것.
-
+    Animator anim;
     float h;
     float v;
     bool isHorizonMove;
     GameObject scanObject;
 
 
+
     private void Awake()
     {
         rigid = GetComponent<Rigidbody2D>();
         spriter = GetComponent<SpriteRenderer>();
-
+        anim = GetComponent<Animator>();
     }
 
     void Update()
@@ -53,7 +54,18 @@ public class playerr : MonoBehaviour
         else if (hDown && h == 1)
             dirVec = Vector3.right;
 
-
+        if (anim.GetInteger("hAxisRaw") != h)
+        {
+            anim.SetBool("isChange", true);
+            anim.SetInteger("hAxisRaw", (int)h);
+        }
+        else if (anim.GetInteger("vAxisRaw") != v)
+        {
+            anim.SetBool("isChange", true);
+            anim.SetInteger("vAxisRaw", (int)v);
+        }
+        else
+            anim.SetBool("isChange", false);
 
         //Direction
         if (vDown && v == 1)
