@@ -254,7 +254,11 @@ MonoBehaviour:
   info:
     name: "\uB098"
     sentences:
-    - "\uC88B\uC544"
+    - "(\uC544, \uBA38\uB9AC\uC57C. \uBB50\uC9C0? \uB098 \uC65C \uB208\uC744 \uAC10\uACE0
+      \uB204\uC6CC\uC788\uC9C0? \uC7A0\uB4E4\uC5C8\u2026)"
+    - "\uC2DC\uD5D8!!!!!!!!!!"
+    - "\uBA38\uB9BF\uC18D\uC744 \uCE58\uACE0 \uAC00\uB294 \uC12C\uCC1F\uD55C \uB2E8\uC5B4\uC5D0
+      \uB208\uC744 \uBC88\uCA4D \uB728\uBA70 \uBAB8\uC744 \uC77C\uC73C\uCF30\uB2E4."
 --- !u!114 &124161168
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -626,8 +630,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -459, y: 78}
-  m_SizeDelta: {x: 160, y: 32.2429}
+  m_AnchoredPosition: {x: -433, y: 56.25}
+  m_SizeDelta: {x: 180.5469, y: 68.248}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &273625708
 CanvasRenderer:
@@ -659,8 +663,8 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: 300df7dd0a4bf8f44ac23c6ae283fe9d, type: 3}
-    m_FontSize: 25
-    m_FontStyle: 0
+    m_FontSize: 30
+    m_FontStyle: 1
     m_BestFit: 0
     m_MinSize: 0
     m_MaxSize: 60
@@ -888,7 +892,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 648, y: -349}
-  m_SizeDelta: {x: 100, y: 70}
+  m_SizeDelta: {x: 70, y: 70}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &546380525
 MonoBehaviour:
@@ -966,7 +970,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: cc8af097a7da32945bd641a41bd9d65a, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 8599f2e6bf556144e84db1aa2e0f5dba, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1052,12 +1056,12 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: fe4c787e6a689444c95b846c3a1b8b07, type: 3}
-    m_FontSize: 30
-    m_FontStyle: 0
+    m_FontSize: 33
+    m_FontStyle: 1
     m_BestFit: 0
     m_MinSize: 3
     m_MaxSize: 40
-    m_Alignment: 0
+    m_Alignment: 3
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
@@ -1511,7 +1515,7 @@ MonoBehaviour:
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
-        m_CallState: 0
+        m_CallState: 2
 --- !u!114 &1370667367
 MonoBehaviour:
   m_ObjectHideFlags: 0
