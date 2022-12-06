@@ -19,11 +19,43 @@ public class Change  : MonoBehaviour
     {
         SceneManager.LoadScene("Case;Soy");
     }
+
+    public void SceneChangeA()
+    {
+        SceneManager.LoadScene("");
+    }
+
+    public void SceneChangeB()
+    {
+        SceneManager.LoadScene("");
+    }
+
+    public void SceneChangeC()
+    {
+        SceneManager.LoadScene("");
+    }
     
+    public void SceneChangeD()
+    {
+        SceneManager.LoadScene("");
+    }
+
+    public void SceneChangeE()
+    {
+        SceneManager.LoadScene("");
+    }
+
+    public void SceneChangeF()
+    {
+        SceneManager.LoadScene("");
+    }
+
+
+
+    ////DON'T TOUCH BELOW///
     public void SceneChange()
     {
         SceneManager.LoadScene("S#1-2");
-
     }
 
     public void SceneChange1()
