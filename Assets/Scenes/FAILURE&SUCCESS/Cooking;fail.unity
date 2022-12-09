@@ -436,8 +436,8 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: 300df7dd0a4bf8f44ac23c6ae283fe9d, type: 3}
-    m_FontSize: 25
-    m_FontStyle: 0
+    m_FontSize: 30
+    m_FontStyle: 1
     m_BestFit: 0
     m_MinSize: 0
     m_MaxSize: 60
@@ -473,8 +473,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -405, y: 78}
-  m_SizeDelta: {x: 160, y: 32.2429}
+  m_AnchoredPosition: {x: -394.75, y: 72}
+  m_SizeDelta: {x: 180.512, y: 55.6852}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &344459153
 GameObject:
@@ -488,7 +488,7 @@ GameObject:
   - component: {fileID: 344459156}
   - component: {fileID: 344459155}
   m_Layer: 5
-  m_Name: S#2
+  m_Name: S
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -534,7 +534,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: e68b570f0a9d66a43ab8e0ca36113f69, type: 3}
+  m_Sprite: {fileID: 21300000, guid: ee931fb974ecd824fb73138bcd26a0ad, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -730,6 +730,7 @@ MonoBehaviour:
     name: 
     sentences:
     - 
+    - 
 --- !u!114 &379644340
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -748,6 +749,7 @@ MonoBehaviour:
     - "...\uC5B4\uCA50\uC9C0 \uC774\uB300\uB85C \uC81C\uB2E8\uC5D0 \uC62C\uB824\uC11C\uB294
       \uC548 \uB420 \uAC83 \uAC19\uB2E4. \uC5B4\uB514\uC11C \uC798\uBABB\uB41C \uAC70\uC9C0?
       \uB2E4\uC2DC \uD55C \uBC88 \uAE30\uC5B5\uC744 \uB354\uB4EC\uC5B4 \uBCF4\uC790."
+    - "\uB2E4, \uB2E4\uC2DC \uB9CC\uB4E4\uC790...!"
 --- !u!114 &379644341
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1097,7 +1099,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 2097696199}
         m_TargetAssemblyTypeName: Change, Assembly-CSharp
-        m_MethodName: SceneChangeCaseEgg
+        m_MethodName: SceneChangeRetryCooking
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1106,7 +1108,7 @@ MonoBehaviour:
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
-        m_CallState: 0
+        m_CallState: 2
 --- !u!114 &1295728809
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1120,14 +1122,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 0}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: cc8af097a7da32945bd641a41bd9d65a, type: 3}
+  m_Sprite: {fileID: 0}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1379,7 +1381,7 @@ SpriteRenderer:
   m_Size: {x: 14.4, y: 6.65}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1521678252
@@ -1437,12 +1439,12 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: fe4c787e6a689444c95b846c3a1b8b07, type: 3}
-    m_FontSize: 28
-    m_FontStyle: 0
+    m_FontSize: 33
+    m_FontStyle: 1
     m_BestFit: 0
     m_MinSize: 2
     m_MaxSize: 40
-    m_Alignment: 0
+    m_Alignment: 3
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
@@ -1474,8 +1476,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -156.3377, y: -45.587}
-  m_SizeDelta: {x: 657.3346, y: 135.42}
+  m_AnchoredPosition: {x: 3.363, y: -41.1916}
+  m_SizeDelta: {x: 976.736, y: 144.2109}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1658016393
 GameObject:
@@ -1853,7 +1855,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\uB4A4\uB85C\n\uAC00\uAE30"
+  m_text: "\uB2E4\uC2DC\n\uB3C4\uC804"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: da017434b0fbf504e8168757b95a0063, type: 2}
   m_sharedMaterial: {fileID: -3141278399949680609, guid: da017434b0fbf504e8168757b95a0063, type: 2}
@@ -1880,14 +1882,14 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 20
-  m_fontSizeBase: 20
+  m_fontSize: 30
+  m_fontSizeBase: 30
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 1
-  m_HorizontalAlignment: 4
+  m_HorizontalAlignment: 2
   m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0

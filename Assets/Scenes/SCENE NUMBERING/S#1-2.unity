@@ -174,7 +174,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.5188679, g: 0.3207738, b: 0.05580274, a: 1}
+  m_Color: {r: 0.7735849, g: 0.5305253, b: 0.19996434, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -783,7 +783,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   info:
-    name: "\uB098"
+    name: ???
     sentences:
     - "\uC2E0\uD654\uC758\u2026 \uC5ED\uC0AC\u2026 \uC5ED\u2026. \uC544, \uC5EC\uAE44\uB2E4.
       \uD5C9, \uC65C \uC774\uB807\uAC8C \uB450\uAEBC\uC6CC. \uC774\uAC70 \uB2E4 \uC77D\uC73C\uBA74
@@ -1061,8 +1061,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -433, y: -134}
-  m_SizeDelta: {x: 500, y: 500}
+  m_AnchoredPosition: {x: -433, y: -84}
+  m_SizeDelta: {x: 500, y: 600}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1570818126
 MonoBehaviour:

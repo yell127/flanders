@@ -20,36 +20,66 @@ public class Change  : MonoBehaviour
         SceneManager.LoadScene("Case;Soy");
     }
 
+    ///COOKING///
+
+    public void SceneChangeStart()
+    {
+        SceneManager.LoadScene("STEP1");
+    }
+
     public void SceneChangeA()
     {
-        SceneManager.LoadScene("");
+        SceneManager.LoadScene("STEP1~2");
     }
 
     public void SceneChangeB()
     {
-        SceneManager.LoadScene("");
+        SceneManager.LoadScene("STEP1~~2");
     }
 
     public void SceneChangeC()
     {
-        SceneManager.LoadScene("");
+        SceneManager.LoadScene("STEP2");
     }
     
     public void SceneChangeD()
     {
-        SceneManager.LoadScene("");
+        SceneManager.LoadScene("STEP2~");
     }
 
     public void SceneChangeE()
     {
-        SceneManager.LoadScene("");
+        SceneManager.LoadScene("STEP3");
     }
 
     public void SceneChangeF()
     {
-        SceneManager.LoadScene("");
+        SceneManager.LoadScene("STEP3~");
     }
 
+    public void SceneChangeG()
+    {
+        SceneManager.LoadScene("About_Tsukimiudon");
+    }
+
+    public void SceneChangeH()
+    {
+        SceneManager.LoadScene("About_Tsukuyomi");
+    }
+
+    public void SceneChangeI()
+    {
+        SceneManager.LoadScene("With_Tsukuyomi");
+    }
+
+    public void SceneChangeJ()
+    {
+        SceneManager.LoadScene("With_Tsukuyomi_End");
+    }
+    ///COOKING///
+
+    
+    ///MINIGAME///
 
 
     ////DON'T TOUCH BELOW///
@@ -108,5 +138,13 @@ public class Change  : MonoBehaviour
         SceneManager.LoadScene("S#4-5");
     }
 
-    
+    public void SceneChangeEnding()
+    {
+        SceneManager.LoadScene("TO_BE_CONTINUED");
+    }
+
+    public void SceneChangeRetryCooking()
+    {
+        SceneManager.LoadScene("STEP1");
+    }
 }

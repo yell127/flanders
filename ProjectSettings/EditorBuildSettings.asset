@@ -201,10 +201,10 @@ EditorBuildSettings:
     path: Assets/Scenes/TO_BE_CONTINUED.unity
     guid: 2e8fc6599c08654459589860b6f5565a
   - enabled: 1
-    path: Assets/Scenes/About_Tsukimiudon.unity
+    path: Assets/Scenes/About_Tsukuyomi.unity
     guid: 17082fdd72bddbf48af0d45ce22baf66
   - enabled: 1
-    path: Assets/Scenes/About_Tsukuyomi.unity
+    path: Assets/Scenes/About_Tsukimiudon.unity
     guid: f19b97ca51eba304cb4b189df6112ad8
   - enabled: 1
     path: Assets/Scenes/FAILURE&SUCCESS/Cooking;fail.unity
@@ -212,4 +212,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/FAILURE&SUCCESS/Cooking;Success.unity
     guid: f4c936c621b14a84cac81b6b8ea165ce
+  - enabled: 1
+    path: Assets/Scenes/COOKING/STEP1~~2.unity
+    guid: d9691b081b980a84e86e9657b90c1c0d
+  - enabled: 1
+    path: Assets/Scenes/COOKING/STEP2~.unity
+    guid: 468d1b6a68cd6b047bfe0dd56d3f4e89
+  - enabled: 1
+    path: Assets/Scenes/COOKING/STEP2~~3.unity
+    guid: 36a3e4fbcb089a549afbfecb4c82bd1d
   m_configObjects: {}

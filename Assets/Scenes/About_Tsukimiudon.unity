@@ -552,7 +552,7 @@ GameObject:
   - component: {fileID: 380353166}
   - component: {fileID: 380353165}
   m_Layer: 5
-  m_Name: About;Tsukuyomi
+  m_Name: About;Tsukimiudon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -731,8 +731,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 84}
-  m_SizeDelta: {x: 400, y: 600}
+  m_AnchoredPosition: {x: 0, y: 109}
+  m_SizeDelta: {x: 480, y: 480}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &799559782
 MonoBehaviour:
@@ -763,14 +763,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   info:
-    name: "\uCE20\uCFE0\uC694\uBBF8 |"
+    name: "\uCE20\uD0A4\uBBF8(\u3064\u304D\u307F)\uC6B0\uB3D9 | "
     sentences:
-    - "                   \uCC3D\uC870\uC2E0 \uC774\uC790\uB098\uAE30\uC640 \uC774\uC790\uB098\uBBF8\uC758
-      \uC790\uC2DD \uC2E0\uC774\uC790, \uC67C\uCABD \uB208\uC744 \uC53B\uC744 \uB54C
-      \uD0DC\uC5B4\uB0AC\uB2E4\uACE0 \uC54C\uB824\uC9C4 \uC874\uC7AC. \uB2EC\uACFC
-      \uBC24\uC744 \uAD00\uC7A5\uD558\uB294 \uC2E0\uC774\uB2E4. \uD568\uAED8 \uD0DC\uC5B4\uB09C
-      \uB450 \uC2E0\uC5D0 \uBE44\uD574 \uC874\uC7AC\uAC10\uC774\uB098 \uC804\uD574\uC624\uB294
-      \uC124\uD654\uAC00 \uB9CE\uC9C0 \uC54A\uC740 \uD3B8\uC5D0 \uC18D\uD55C\uB2E4. "
+    - "                                    \uACE0\uBA85\uC73C\uB85C \uC62C\uB9AC\uB294
+      \uB0A0\uB2EC\uAC40\uC774 \uBCF4\uB984\uB2EC \uAC19\uACE0, \uB2EC\uC744 \uBCF8\uB2E4\uB294
+      \uB73B\uC758 \u6708(\u3064\u304D) \u898B(\u307F)\uC640 \uBC1C\uC74C\uC774 \uAC19\uC544
+      \uCE20\uD0A4\uBBF8 \uC6B0\uB3D9\uC774\uB77C\uB294 \uC774\uB984\uC73C\uB85C
+      \uBD88\uB9AC\uAC8C \uB418\uC5C8\uB2E4. "
 --- !u!114 &799559784
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -859,7 +858,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 605162d2068d47147ba0d5617c7d1eb9, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 863eab187e9ed8847870d377de69222e, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1047,7 +1046,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 489061218}
         m_TargetAssemblyTypeName: Change, Assembly-CSharp
-        m_MethodName: SceneChange4
+        m_MethodName: SceneChangeH
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1077,7 +1076,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: cc8af097a7da32945bd641a41bd9d65a, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 8599f2e6bf556144e84db1aa2e0f5dba, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1350,7 +1349,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: e68b570f0a9d66a43ab8e0ca36113f69, type: 3}
+  m_Sprite: {fileID: 21300000, guid: ee931fb974ecd824fb73138bcd26a0ad, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1566,8 +1565,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 17.8506, y: -9.5883}
-  m_SizeDelta: {x: 778.2707, y: 207.42}
+  m_AnchoredPosition: {x: 0.000022084, y: -0.000002861}
+  m_SizeDelta: {x: 814.847, y: 207.42}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1655641391
 GameObject:
@@ -1936,11 +1935,11 @@ MonoBehaviour:
   m_FontData:
     m_Font: {fileID: 12800000, guid: 300df7dd0a4bf8f44ac23c6ae283fe9d, type: 3}
     m_FontSize: 40
-    m_FontStyle: 3
+    m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 0
     m_MaxSize: 60
-    m_Alignment: 3
+    m_Alignment: 0
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
@@ -1962,7 +1961,7 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1972889582}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -1972,8 +1971,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -253.82, y: 26.28}
-  m_SizeDelta: {x: 234.9204, y: 52.5603}
+  m_AnchoredPosition: {x: -179.52, y: 19.036}
+  m_SizeDelta: {x: 456.6748, y: 85.6859}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &2035111447
 GameObject:
@@ -2101,7 +2100,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: ' NEXT'
+  m_text: 
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: da017434b0fbf504e8168757b95a0063, type: 2}
   m_sharedMaterial: {fileID: -3141278399949680609, guid: da017434b0fbf504e8168757b95a0063, type: 2}

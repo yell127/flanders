@@ -1247,7 +1247,7 @@ GameObject:
   - component: {fileID: 1394458473}
   - component: {fileID: 1394458472}
   m_Layer: 5
-  m_Name: With_Tsukuyomi
+  m_Name: Tobecontinued
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

@@ -743,7 +743,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   info:
-    name: "\uB098"
+    name: ???
     sentences:
     - "(\u2026\uBB34\uC2A8 \uBD80\uADC0\uC601\uD654\uB97C \uB204\uB9AC\uC790\uACE0
       \uD314\uC790\uC5D0\uB3C4 \uC5C6\uB294 \uCF54\uB529\uC744 \uC2DC\uC791\uD588\uC744\uAE4C.
@@ -1128,8 +1128,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -433, y: -134}
-  m_SizeDelta: {x: 500, y: 500}
+  m_AnchoredPosition: {x: -433, y: -84}
+  m_SizeDelta: {x: 500, y: 600}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1599649207
 MonoBehaviour:
